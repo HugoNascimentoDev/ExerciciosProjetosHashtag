@@ -1,9 +1,5 @@
 # Passo a passo do projeto
 
-
-
-
-
 # Passo 1 - Pegar cada base de dados
 
 import pandas as pd # importando a biblioteca pandas e nomeando como pd
@@ -57,7 +53,6 @@ Hugo Dev
 """
 
 # to_string ele formata a tabela em texto
-
 
 # como enviar por email
 # 4 grandes formas
